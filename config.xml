@@ -7,10 +7,10 @@
 
   <!-- Colocar icono app -->	
 	
-	<name>Datos del telelefono</name>
+	<name>Datos del Teléfono</name>
 	
 	<description>
-	  Aplicacion que Datos del Telefono
+	  Aplicacion que muestra Datos del Telefono
 	</description>
 	  
 	  <preference name="phonegap-version" value="3.1.0" />
